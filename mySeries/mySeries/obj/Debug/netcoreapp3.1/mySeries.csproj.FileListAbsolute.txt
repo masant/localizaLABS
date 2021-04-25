@@ -1,0 +1,13 @@
+C:\Users\matheus-ajl\Documents\PDI\C#\LocalizaLABS\projetos\mySeries\mySeries\obj\Debug\netcoreapp3.1\mySeries.csprojAssemblyReference.cache
+C:\Users\matheus-ajl\Documents\PDI\C#\LocalizaLABS\projetos\mySeries\mySeries\obj\Debug\netcoreapp3.1\mySeries.AssemblyInfoInputs.cache
+C:\Users\matheus-ajl\Documents\PDI\C#\LocalizaLABS\projetos\mySeries\mySeries\obj\Debug\netcoreapp3.1\mySeries.AssemblyInfo.cs
+C:\Users\matheus-ajl\Documents\PDI\C#\LocalizaLABS\projetos\mySeries\mySeries\obj\Debug\netcoreapp3.1\mySeries.csproj.CoreCompileInputs.cache
+C:\Users\matheus-ajl\Documents\PDI\C#\LocalizaLABS\projetos\mySeries\mySeries\bin\Debug\netcoreapp3.1\mySeries.exe
+C:\Users\matheus-ajl\Documents\PDI\C#\LocalizaLABS\projetos\mySeries\mySeries\bin\Debug\netcoreapp3.1\mySeries.deps.json
+C:\Users\matheus-ajl\Documents\PDI\C#\LocalizaLABS\projetos\mySeries\mySeries\bin\Debug\netcoreapp3.1\mySeries.runtimeconfig.json
+C:\Users\matheus-ajl\Documents\PDI\C#\LocalizaLABS\projetos\mySeries\mySeries\bin\Debug\netcoreapp3.1\mySeries.runtimeconfig.dev.json
+C:\Users\matheus-ajl\Documents\PDI\C#\LocalizaLABS\projetos\mySeries\mySeries\bin\Debug\netcoreapp3.1\mySeries.dll
+C:\Users\matheus-ajl\Documents\PDI\C#\LocalizaLABS\projetos\mySeries\mySeries\bin\Debug\netcoreapp3.1\mySeries.pdb
+C:\Users\matheus-ajl\Documents\PDI\C#\LocalizaLABS\projetos\mySeries\mySeries\obj\Debug\netcoreapp3.1\mySeries.dll
+C:\Users\matheus-ajl\Documents\PDI\C#\LocalizaLABS\projetos\mySeries\mySeries\obj\Debug\netcoreapp3.1\mySeries.pdb
+C:\Users\matheus-ajl\Documents\PDI\C#\LocalizaLABS\projetos\mySeries\mySeries\obj\Debug\netcoreapp3.1\mySeries.genruntimeconfig.cache

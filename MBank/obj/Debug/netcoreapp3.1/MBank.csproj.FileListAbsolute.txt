@@ -11,3 +11,16 @@ C:\Users\matheus-ajl\Documents\PDI\C#\LocalizaLABS\MBank\obj\Debug\netcoreapp3.1
 C:\Users\matheus-ajl\Documents\PDI\C#\LocalizaLABS\MBank\obj\Debug\netcoreapp3.1\MBank.dll
 C:\Users\matheus-ajl\Documents\PDI\C#\LocalizaLABS\MBank\obj\Debug\netcoreapp3.1\MBank.pdb
 C:\Users\matheus-ajl\Documents\PDI\C#\LocalizaLABS\MBank\obj\Debug\netcoreapp3.1\MBank.genruntimeconfig.cache
+C:\Users\matheus-ajl\Documents\PDI\C#\LocalizaLABS\projetos\MBank\bin\Debug\netcoreapp3.1\MBank.exe
+C:\Users\matheus-ajl\Documents\PDI\C#\LocalizaLABS\projetos\MBank\bin\Debug\netcoreapp3.1\MBank.deps.json
+C:\Users\matheus-ajl\Documents\PDI\C#\LocalizaLABS\projetos\MBank\bin\Debug\netcoreapp3.1\MBank.runtimeconfig.json
+C:\Users\matheus-ajl\Documents\PDI\C#\LocalizaLABS\projetos\MBank\bin\Debug\netcoreapp3.1\MBank.runtimeconfig.dev.json
+C:\Users\matheus-ajl\Documents\PDI\C#\LocalizaLABS\projetos\MBank\bin\Debug\netcoreapp3.1\MBank.dll
+C:\Users\matheus-ajl\Documents\PDI\C#\LocalizaLABS\projetos\MBank\bin\Debug\netcoreapp3.1\MBank.pdb
+C:\Users\matheus-ajl\Documents\PDI\C#\LocalizaLABS\projetos\MBank\obj\Debug\netcoreapp3.1\MBank.csprojAssemblyReference.cache
+C:\Users\matheus-ajl\Documents\PDI\C#\LocalizaLABS\projetos\MBank\obj\Debug\netcoreapp3.1\MBank.AssemblyInfoInputs.cache
+C:\Users\matheus-ajl\Documents\PDI\C#\LocalizaLABS\projetos\MBank\obj\Debug\netcoreapp3.1\MBank.AssemblyInfo.cs
+C:\Users\matheus-ajl\Documents\PDI\C#\LocalizaLABS\projetos\MBank\obj\Debug\netcoreapp3.1\MBank.csproj.CoreCompileInputs.cache
+C:\Users\matheus-ajl\Documents\PDI\C#\LocalizaLABS\projetos\MBank\obj\Debug\netcoreapp3.1\MBank.dll
+C:\Users\matheus-ajl\Documents\PDI\C#\LocalizaLABS\projetos\MBank\obj\Debug\netcoreapp3.1\MBank.pdb
+C:\Users\matheus-ajl\Documents\PDI\C#\LocalizaLABS\projetos\MBank\obj\Debug\netcoreapp3.1\MBank.genruntimeconfig.cache

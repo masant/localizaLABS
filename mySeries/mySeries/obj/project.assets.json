@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\matheus-ajl\\Documents\\PDI\\C#\\LocalizaLABS\\projetos\\MBank\\MBank.csproj",
-      "projectName": "MBank",
-      "projectPath": "C:\\Users\\matheus-ajl\\Documents\\PDI\\C#\\LocalizaLABS\\projetos\\MBank\\MBank.csproj",
+      "projectUniqueName": "C:\\Users\\matheus-ajl\\Documents\\PDI\\C#\\LocalizaLABS\\projetos\\mySeries\\mySeries\\mySeries.csproj",
+      "projectName": "mySeries",
+      "projectPath": "C:\\Users\\matheus-ajl\\Documents\\PDI\\C#\\LocalizaLABS\\projetos\\mySeries\\mySeries\\mySeries.csproj",
       "packagesPath": "C:\\Users\\matheus-ajl\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\matheus-ajl\\Documents\\PDI\\C#\\LocalizaLABS\\projetos\\MBank\\obj\\",
+      "outputPath": "C:\\Users\\matheus-ajl\\Documents\\PDI\\C#\\LocalizaLABS\\projetos\\mySeries\\mySeries\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

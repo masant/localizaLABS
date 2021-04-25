@@ -5,3 +5,4 @@ Projetos desenvolvidos durante o bootcamp .NET Developer, da LocalizaLABS, em pa
 # Projetos
 
 ## [MBank](https://github.com/masant/localizaLABS/tree/main/MBank)
+## [mySeries](https://github.com/masant/localizaLABS/tree/main/mySeries)
